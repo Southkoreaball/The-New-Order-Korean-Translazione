@@ -33,11 +33,11 @@
  ### Leader Descriptions ###
  POLITICS_DMITRY_KARBYSHEV_DESC:0 "드미트리 미하일로비치 카르비셰프의 이야기는 배신과 상실, 그리고 분노로 가득 찬 비극적인 이야기입니다. 처음에 그는 대전쟁 동안 차르를 위해 싸웠고, 내전기에는 적위군에 가담했으며, 조국이 다시 한번 침략당하자 군으로 돌아왔습니다. 독일군에게 포로로 잡혀 여러 포로 수용소를 전전한 카르비셰프는 얻어맞고 고문당했으며 죽기 직전까지 내버려졌지만, 절대로 인민에 대한 희망을 잃어버린 적이 없습니다. 마침내 그와 소수의 동료들은 죽음의 수용소를 탈출해 동부로 도망치는데 성공했고 나약한 연방이 장악한 지역을 지나쳐 라자리 카가노비치의 서시베리아 인민공화국에 가담했습니다.\n\n수년간 자신이 당했던 고통을 잊어버리지 않은 카르비셰프는 러시아가 다시는 그런 고통을 당하게 두지 않겠다고 굳게 다짐했습니다. 그는 자신이 §R대시련§! 이라고 이름붙인 러시아의 운명을 둔 독일과의 최후 결전을 준비하기 시작했습니다. 비슷한 사상을 가지고 대의에 동조한 수많은 동지들을 모은 그는 얼마 지나지 않아 카가노비치에게 대항해 반란을 일으켜 옴스크를 점거했고, 편안히 준비할 수 있도록 도시를 요새화했습니다. 카르비셰프는 자신이 러시아 앞에 벌어질 문제를 지도할 수 있는 유일한 단체라고 판단한 전 러시아 흑색 연합의 지배권을 주장했습니다.\n\n하지만 시간이 흘렀고 한때 충성스러웠던 장교들 사이에서 불신이 싹텄습니다. 이제 그는 아무 것도 할 수 없는 와중에 주변을 빙빙 도는 독수리들을 지켜보면서 자신이 구원하기를 바랬던 사람들이 적이 아닌 자기들끼리 싸우는 모습을 눈물 흘리며 바라볼 수 밖에 없게 되었습니다. 드미트리 카르비셰프는 §R대시련§!이 점차 가까워지는 와중에 자신의 유지를 이을 누군가가 나타나지 않는다면 러시아에 필연적으로 닥칠 파멸을 두려워하고 있습니다."
  
- POLITICS_DMITRY_YAZOV_DESC:0 "드미트리 티모페예비치 야조프는 소비에트 이후의 새로운 세대입니다: 레닌의 부상이후로 태어났고, 차르와 대전쟁에 대한 기억은 없습니다. 아이일때 고난을 알았지만, 그러나 그것이 모국의 생존을 위한 불가결한 희생이란 것을 알았습니다. 나치들이 서쪽에서 몰려올때, 그들은 붉은 군대의 최전선에서 싸웠으며, 지상에 강림한 지옥을 보았으며 패배의 쓴잔을 들이켰고 또 들이켰습니다. 대조국전쟁이 끝났을떄, 그들의 전에 삶에 남아있던 행복도 승리한 독일인들한테 빼앗겼습니다. 1950년대의 서러시아 혁명전선의 군사적 실패와 그 이후의 몰락은 야조프같은 사람들이 더욱더 사고를 고정적으로 만들었습니다: 옛 소비에트 사령관들은 열정은 있었지만, 지도부는 필사적으로 신인이 필요했습니다. 어린 사람, 견고한 사람, 희생의 가치를 배웠고 직접 목격한 사람 말이죠.\n\n카르비셰프 동무가 그의 이상을 보기전에 쓰러지자, 그 짐은 이제 그의 제자였던 드미트리 야조프에게 떨어지게 되었습니다. 그의 전 스승과 다르게, 야조프는 실행하려는 의지와 체력이 있고, 그리고 이미 전국가를 전세계가 이제까지 경험해보지 못한 총력전을 준비할수 있는 형태로 변화시키고 있습니다. 그는 그의 인민들이 독일의 위협에 대한 복수를 위해 그들의 목숨을 포함한 모든것을 희생하길 예상하며, 그리고 많은 사람들이 그렇게 하길 원하고 있습니다. 아무것도, 심지어 핵무기의 불길로도, 그의 의지를 단념시키진 못할 것이며, 그리고 그는 자주 모든 독일인이 죽고 또 한 명 빼고 모든 러시아인이 죽어도, 승리가 될 것이라고 말합니다.\n\n옴스크가 잠에서 깨어나고 있고, 세계는 생각만으로도 두려워합니다."
+ POLITICS_DMITRY_YAZOV_DESC:0 "드미트리 티모페예비치 야조프는 소비에트 이후의 새로운 세대입니다: 레닌의 부상이후로 태어났고, 차르와 대전쟁에 대한 기억은 없습니다. 아이일때 고난을 알았지만, 그러나 그것이 모국의 생존을 위한 불가결한 희생이란 것을 알았습니다. 나치들이 서쪽에서 몰려올때, 그들은 붉은 군대의 최전선에서 싸웠으며, 지상에 강림한 지옥을 보았으며 패배의 쓴잔을 들이켰고 또 들이켰습니다. 대조국전쟁이 끝났을때, 그들의 전에 삶에 남아있던 행복도 승리한 독일인들한테 빼앗겼습니다. 1950년대의 서러시아 혁명전선의 군사적 실패와 그 이후의 몰락은 야조프같은 사람들이 더욱더 사고를 고정적으로 만들었습니다: 옛 소비에트 사령관들은 열정은 있었지만, 지도부는 필사적으로 신인이 필요했습니다. 어린 사람, 견고한 사람, 희생의 가치를 배웠고 직접 목격한 사람 말이죠.\n\n카르비셰프 동무가 그의 이상을 보기전에 쓰러지자, 그 짐은 이제 그의 제자였던 드미트리 야조프에게 떨어지게 되었습니다. 그의 전 스승과 다르게, 야조프는 실행하려는 의지와 체력이 있고, 그리고 이미 전국가를 전세계가 이제까지 경험해보지 못한 총력전을 준비할수 있는 형태로 변화시키고 있습니다. 그는 그의 인민들이 독일의 위협에 대한 복수를 위해 그들의 목숨을 포함한 모든것을 희생하길 예상하며, 그리고 많은 사람들이 그렇게 하길 원하고 있습니다. 아무것도, 심지어 핵무기의 불길로도, 그의 의지를 단념시키진 못할 것이며, 그리고 그는 자주 모든 독일인이 죽고 또 한 명 빼고 모든 러시아인이 죽어도, 승리가 될 것이라고 말합니다.\n\n옴스크가 잠에서 깨어나고 있고, 세계는 생각만으로도 두려워합니다."
  
- POLITICS_OMSK_COLLAPSED_AUTHORITY_DESC:0 "트미트리 야조프는 죽었습니다. 흑색연합의 챔피언이자, 카르비셰프의 위대한 임무를 짊어진 사람은 더 이상 없습니다. Being chosen to lead the most conscientious force in Russia to the victory against the Fascist beast, Yazov failed to handle the ambitions of the vainglorious and power-hungry warlords and doomed the League to a miserable end. Without its leader and guide in the Russian struggle, the League ceased to exist as a single entity and became a collection of feuding generals, who seek to grab their part of the great heritage of Karbyshev and have long forgotten about the purpose that once united them.\n\nWith Yazov's death, the §RGreat Trial§! has failed. Although the remaining League generals are trying to hold on to their naught fiefdoms, the will of a powerful neighboring warlord is sufficient to erase the last remains of the All-Russian Black League in Omsk."
+ POLITICS_OMSK_COLLAPSED_AUTHORITY_DESC:0 "트미트리 야조프는 죽었습니다. 흑색연합의 챔피언이자, 카르비셰프의 위대한 임무를 짊어진 사람은 더 이상 없습니다. 러시아에서 가장 성실한 군대를 이끌어서 파시스트 짐승에게 맞서려고 하였지만, 야조프는 자만심이 강하고 힘에 굶주린 군벌들을 통제하는데 실패하고 연합을 끔찍한 종말로 이끌었습니다. 러시아인의 투쟁에 이끌 사람이 없어지자, 연합은 사라지고 서로가 앙숙인 장군들의 집합체가 되어버렸으며, 카르비셰프의 유산을 가져가려고 하려 있으며 그들을 한데 묶어주던 이념은 잊어버린지 오래입니다.\n\n야조프의 죽음과 함께, §R대시련§!은 실패했습니다. 설령 남아있는 연합의 장교들이 그들의 무의미한 영지를 유지하려 하더라도, 주변의 강력한 군벌의 의지가 옴스크에 남아있는 전러시아 흑색연합의 흔적을 지워버리는 데에는 충분할 것입니다."
 
- POLITICS_VIKTOR_GRIGORIEV_DESC:0 "Viktor Antonovich Grigoriev is many things: brave, courageous, and certainly an opportunist. When he was called to leave his hometown of Omsk and serve in the Red Army, he fought tooth-and-nail, staying in battle with frostbite and later ramming an enemy tank with his own. It was only logical for him to later join the Black League's army after this pointless struggle, but he was never particularly dedicated to the League's cause.\n\nGrigoriev cleverly survived the intrigues between the three West Siberian cliques as a low-ranking officer until the war with the merchants of death, when he was one of the first to jump off the sinking ship and side with the enemy.\n\nHe might have been humiliated back home, but that did not concern him once he was appointed mayor and warlord of Omsk. Grigoriev may be a mere puppet of the government in the Urals he answers to, but as long as he keeps control, all is fine."
+ POLITICS_VIKTOR_GRIGORIEV_DESC:0 "빅토르 안토노비치 그리고리예프는 다양한 성향을 가지고 있습니다: 용감하고, 대담하며, 틀림없는 기회주의자입니다. 그가 옴스크에 있는 그의 집에서 나와 붉은 군대로 들어왔을때, 그는 필사적으로 싸웠으며, 동상에 걸린 채로 전투를 치뤘으며 그 스스로 적의 탱크를 들이받기 까지 했습니다. 흑색연합의 군대에 들어가 무의미한 투쟁을 하는 것이 그에게 남은 유일한 논리적 결정이였습니다만,그는 별로 연합의 가치에 헌신하지 않았습니다.\n\n그리고예프는 하급장교 치고는 똑똑하게 3가지 서시베라의 군벌들 속에서 살아남았으며 죽음의 상인과의 전쟁때, 그는 잠겨저오는 배를 버리고 적의 편에 합류했습니다.\n\n그는 고향에 돌아왔을때 굴욕을 당했을지는 몰라도, 그걸로는 그가 시장이자 옴스크의 군벌자리에 앉았을때 걱정을 끼치지 않았습니다. 그리고리예프는 설령 우랄에 있는 꼭두각시 정부의 수장에 불과하지만, 그는 대답하길, 그가 통제권을 쥐는 동안, 모든게 괜찭다고 말합니다."
 
  ### Leader Traits ###
  the_caged_general:0 "새장에 같힌 장군"
@@ -73,7 +73,7 @@
  OMS_idea_quiet_war:0 "폭풍을 준비하라"
  OMS_the_shield:0 "모국의 방패"
  OMS_new_boss:0 "새로운 지도부"
- OMS_leadership_secured:0 "지도부 "
+ OMS_leadership_secured:0 "안정된 지도부"
  OMS_collapsed_central_authority:0 "붕괴한 중앙 당국"
  OMS_idea_plan_hydra:0 "계획 히드라"
  OMS_idea_dispersed_industry:0 "분산된 산업"
@@ -134,7 +134,7 @@
 
  #Batov Insurgency category
  OMS_anti_batov_category:0 "§w반란§!"
- OMS_anti_batov_category_desc:0 "\n\n\n\n\n\n배신자 §R파벨 바토프§!이 우리의 대의를 거절하고 §Y서시베리아§! 전역에 우리 당국에 위협을 끼치는 저항군을 설립했습니다.\n\n그를 제거하는 데 실패하면 그것은 §R우리의 몰락§!으로 이어질 것이며, 우리가 §R대시련§!을 준비하려고 한 모든 노력은 가식으로 끝날 것입니다.\n\nCounter-Insurgency Progress: §Y[?OMS_counter_insurgency_progress]§!.\n\n반란군 세력: §Y[?OMS_batov_strength]§!."
+ OMS_anti_batov_category_desc:0 "\n\n\n\n\n\n배신자 §R파벨 바토프§!가 우리의 대의를 거절하고 §Y서시베리아§! 전역에 우리 당국에 위협을 끼치는 저항군을 설립했습니다.\n\n그를 제거하는 데 실패하면 그것은 §R우리의 몰락§!으로 이어질 것이며, 우리가 §R대시련§!을 준비하려고 한 모든 노력은 가식으로 끝날 것입니다.\n\n반란-진압 현황: §Y[?OMS_counter_insurgency_progress]§!.\n\n반란군 세력: §Y[?OMS_batov_strength]§!."
  OMS_put_down_batovs_bandits:0 "§R바토프의 도적때를 쓰러뜨려라§!"
  OMS_escalate_isd_operations:0 "§YEscalate ISD Operations§!"
  OMS_improve_counter_terror_armaments:0 "§GImprove Counter-Terror Armaments§!"
@@ -172,16 +172,16 @@
  OMS_initial_breaking_the_cliques_tt:0 "다양한 파벌들의 문제가 너무 곪아터졌습니다. §Y그들의 다툼질을 끝낼 시간입니다.§!\n"
  OMS_initial_the_final_speech_tt:0 "카르비셰프 동무가 그의 인민들에게 §Y마지막으로§! 연설할 것입니다.\n"
  OMS_initial_falling_snow_tt:0 "§Y끝이 다가옵니다.§!\n"
- OMS_infiltrate_iskilkul_tt:0 "The Iskilkul revolt has been §Ypacified.§!\n"
- OMS_tackle_tara_tt:0 "The Tara revolt has been §Ypacified.§!\n"
- OMS_old_guard_revolt_trigger:0 "We have to §Rdeal with the Old Guard officer's revolt§!.\n"
- OMS_old_guard_revolt_failure_tt:0 "The Old Guard will §Yoverwhelm us!§!\n"
- OMS_old_guard_revolt_success_tt:0 "We will §Ysecure our regime.§!\n"
- OMS_clear_skies_tt:0 "Now that the German bombings have ended, we must §Yprepare for war.§!\n"
- OMS_the_drums_of_war_tt:0 "We have made adequate preparations. The time has come §Yfor war.§!\n"
- OMS_undoing_bukharins_mess_tt:0 "We will begin §Yimproving our industry.§!\n"
- OMS_signal_the_infiltrators_tt:0 "We will §Ysend the signal to our infiltrators.§!\n"
- OMS_integrate_sverdlovsk_generals_tt:0 "We will §Yintegrate§! some of the Sverdlovsk General Staff into our ranks.\n"
+ OMS_infiltrate_iskilkul_tt:0 "이실쿨 봉기가 §Y진정되었습니다.§!\n"
+ OMS_tackle_tara_tt:0 "타라 봉기가 §Y진정되었습니다.§!\n"
+ OMS_old_guard_revolt_trigger:0 "우리는 §R보수파 장교들의 반란을 처리해야 합니다!§!.\n"
+ OMS_old_guard_revolt_failure_tt:0 "보수파가 §Y우리를 압도합니다!§!\n"
+ OMS_old_guard_revolt_success_tt:0 "우리는 §Y정부를 확보할 것입니다.§!\n"
+ OMS_clear_skies_tt:0 "이제 독일의 폭격이 끝났으니, 우리는 §Y전쟁을 준비해야만 합니다.§!\n"
+ OMS_the_drums_of_war_tt:0 "우리는 적절한 준비를 마쳤습니다. §전쟁§!을 할 시간입니다\n"
+ OMS_undoing_bukharins_mess_tt:0 "우리는 §Y우리의 산업을 발전§!시킬 것 입니다.\n"
+ OMS_signal_the_infiltrators_tt:0 "우리는 §Y우리의 잠입부대에 신호를 보낼 것§!입니다.\n"
+ OMS_integrate_sverdlovsk_generals_tt:0 "우리는§Yintegrate§! some of the Sverdlovsk General Staff into our ranks.\n"
  OMS_integrate_tyumen_generals_tt:0 "We will §Yintegrate§! some of the Tyumen General Staff into our ranks.\n"
  OMS_hunt_down_batovs_bandits_tt:0 "§YDecisions§! to deal with §YBatov's insurgency§! shall be unlocked."
  OMS_strike_from_within_tt:0 "§YAdditional Decisions§! to deal with §YBatov's insurgency§! shall be unlocked."
@@ -284,10 +284,10 @@
  OMS_initial_the_steel_heart_of_omsk_desc:0 "While the current geographical situation is not ideal, Omsk does have one great strength that will give us the edge over our rivals in the region: industry. Factories pepper the landscape, and across Omsk workers labor to create as many weapons and defenses as possible. If Bukharin did one thing right, even in his ignorance, it was providing us with this tool of vengeance.\n\nYet this must be expanded on. The construction of new arms factories will begin effective immediately, and within a matter of months new weapons will begin to pour from Omsk's Steel Heart to the arms of our soldiers."
 
  OMS_initial_the_shield_of_the_motherland:0 "모국의 방패"
- OMS_initial_the_shield_of_the_motherland_desc:0 "We are the last hope of the Motherland, in the end. Under the Tsars, the Russian Worker labored endlessly as a near-slave, while the man on top reaped the benefits, providing nothing in return. The Bolsheviks, too, failed the people. Under Bukharin's undisciplined gaze, our military stagnated, and the Germans marched to annihilate us with near-impunity.\n\nNo more. From Omsk, a new order will sweep across the land, one dedicated solely to the protection and vengeance of Russia, and when we march forwards to retake Moscow, their generals, their scientists, even the Fuhrer himself will quake in their boots. When finally they beg us for mercy as our boots rest on their necks, only then will the Last Trial be avenged."
+ OMS_initial_the_shield_of_the_motherland_desc:0 "우리는 모국의 마지막 , in the end. Under the Tsars, the Russian Worker labored endlessly as a near-slave, while the man on top reaped the benefits, providing nothing in return. The Bolsheviks, too, failed the people. Under Bukharin's undisciplined gaze, our military stagnated, and the Germans marched to annihilate us with near-impunity.\n\nNo more. From Omsk, a new order will sweep across the land, one dedicated solely to the protection and vengeance of Russia, and when we march forwards to retake Moscow, their generals, their scientists, even the Fuhrer himself will quake in their boots. When finally they beg us for mercy as our boots rest on their necks, only then will the Last Trial be avenged."
 
  OMS_initial_remember_the_oath:0 "맹세를 기억하라"
- OMS_initial_remember_the_oath_desc:0 "Every member of the Black League knows the words of the oath by heart.\n\n"I believe, before all else, in Russia, one, indivisible and invincible.\n\nI believe in my own strength, and the strength of my comrades.\n\nI reject the lies of the First Trial and embrace the Black League as Russia's one and only salvation in the coming Trial.\n\nWhen the day of the §RGreat Trial§! comes, I will stand shoulder to shoulder with my comrades, I will face the enemy without fear, and I will put my nation before my own life.\n\nI will be the sword and shield of Russia, by which justice will be done for the fallen.\n\nI swear this oath by my sacred Motherland.""
+ OMS_initial_remember_the_oath_desc:0 "흑색연맹의 모든 연합원은 이 맹세를 가슴 속에 깊이 새겨야 합니다.\n\n"I believe, before all else, in Russia, one, indivisible and invincible.\n\nI believe in my own strength, and the strength of my comrades.\n\nI reject the lies of the First Trial and embrace the Black League as Russia's one and only salvation in the coming Trial.\n\nWhen the day of the §RGreat Trial§! comes, I will stand shoulder to shoulder with my comrades, I will face the enemy without fear, and I will put my nation before my own life.\n\nI will be the sword and shield of Russia, by which justice will be done for the fallen.\n\nI swear this oath by my sacred Motherland.""
 
  OMS_initial_falling_snow:0 "떨어지는 눈"
  OMS_initial_falling_snow_desc:0 "In the end, the monster General Karbyshev created has grown out of control. Even as the life fades from his body, the officers circle like vultures, ready to pounce and tear the League's bloated corpse limb from limb. The General sees the §RGreat Trial§! approaching closer and closer by the day, and yet he knows now he will not be the one to face it.\n\nBut perhaps there is one who can. General Karbyshev will thus perform one last act in the service of the Motherland, knowing that Comrade Yazov, with his youthful drive and determination, will complete the General's mission.\n\nIt's time to take a stroll."
